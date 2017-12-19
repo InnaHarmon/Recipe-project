@@ -1,0 +1,47 @@
+html, body, h1, h2, h3, p, ol, ul, li, a {
+  padding:0;
+  border:0;
+  margin:0;
+  background-color: #E6DFDF;
+}
+body {
+  padding: 20px 20px 20px 20px
+}
+html{
+    font-size: 16px;
+}
+div {
+  padding-left: 50px;
+  padding-right: 50 px;
+  width: 90%;
+  margin: 0 auto; 
+}
+h1 {
+  padding-top:24px 0 24px 0;
+  
+  margin: 10px 0  15px 0;
+  font-family: courier, monospace;
+  font-size: 2em;
+  text-align:center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+h2{
+  margin:10px 0 20px 0;
+  font-size: 1.5em;
+  font-family: arial, sans-serif; 
+  color: blue; 
+  border-bottom: 1px solid #CCCCCC;
+  padding-bottom: 3px;
+}
+ul {
+  padding: 0 0 0 100px;
+}
+ol {
+  padding: 0 0 0 100px;
+}
+ul li {
+  font-size: 24 px;
+}
